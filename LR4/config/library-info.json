@@ -1,0 +1,45 @@
+{
+  "name": "BSNU Books",
+  "availableBooks": [
+    "Object-oriented programming: full course",
+    "C#: introductory course",
+    "ASP.NET: beginner's guide",
+    "HTTP requests manual",
+    "SPA architecture",
+    "Layered architecture: best practices",
+    "Microservices and cloud deployment"
+  ],
+  "maxMembersCount": 5,
+  "members": [
+    {
+      "name": "Maksym Vaisov",
+      "age": 19,
+      "borrowedBooksCount": 2,
+      "group": 309
+    },
+    {
+      "name": "Petro Chobotarenko",
+      "age": 18,
+      "borrowedBooksCount": 1,
+      "group": 208
+    },
+    {
+      "name": "Vasyl Kartoplyannyk",
+      "age": 20,
+      "borrowedBooksCount": 3,
+      "group": 408
+    },
+    {
+      "name": "Pavlo Sukhomlynov",
+      "age": 19,
+      "borrowedBooksCount": 0,
+      "group": 305
+    },
+    {
+      "name": "Taras Tyutyunnyk",
+      "age": 18,
+      "borrowedBooksCount": 2,
+      "group": 201
+    }
+  ]
+}
